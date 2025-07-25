@@ -1,0 +1,34 @@
+{
+    "genres": [
+        {
+            "name": "Action",
+            "movies": [
+                { "id": 1, "title": "Mad Max: Fury Road" },
+                { "id": 2, "title": "John Wick" },
+                { "id": 3, "title": "The Dark Knight" },
+                { "id": 4, "title": "Inception" },
+                { "id": 5, "title": "Gladiator" },
+                { "id": 6, "title": "Die Hard" },
+                { "id": 7, "title": "The Matrix" },
+                { "id": 8, "title": "Avengers: Endgame" },
+                { "id": 9, "title": "Terminator 2" },
+                { "id": 10, "title": "Lethal Weapon" }
+            ]
+        },
+        {
+            "name": "Comedy",
+            "movies": [
+                { "id": 11, "title": "Superbad" },
+                { "id": 12, "title": "Step Brothers" },
+                { "id": 13, "title": "Anchorman" },
+                { "id": 14, "title": "The Hangover" },
+                { "id": 15, "title": "Dumb and Dumber" },
+                { "id": 16, "title": "Tropic Thunder" },
+                { "id": 17, "title": "Ferris Bueller's Day Off" },
+                { "id": 18, "title": "Groundhog Day" },
+                { "id": 19, "title": "Zoolander" },
+                { "id": 20, "title": "21 Jump Street" }
+            ]
+        }
+    ]
+}
